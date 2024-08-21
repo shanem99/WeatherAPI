@@ -1,0 +1,13 @@
+[project]
+name = "WeatherAPI"
+version = "0.0.1"
+authors = [
+  { name="Shane Martin", email="martinshane101@gmail.com" },
+]
+readme = "README.md"
+requires-python = ">3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
