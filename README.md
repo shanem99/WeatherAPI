@@ -1,5 +1,5 @@
 # WeatherAPI
-API to server weather data built on FastAPI
+API to server weather data built on FastAPI. This is built to be a 2 hour coding challenge presented by Ocula 
 
 
 ## Task
