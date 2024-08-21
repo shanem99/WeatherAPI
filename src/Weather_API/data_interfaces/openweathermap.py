@@ -4,7 +4,7 @@ from Weather_API.utils import generate_hourly_epoch
 
 class openWeather:
     def __init__(self) -> None:
-        self.__api_key = "5e8fb7ae2c6f90ea45cc17d49ea8784d"
+        self.__api_key = "insert_your_api_key_here"
 
     def _get_city_coordinates(self, city: str, state: str):
         url = f"http://api.openweathermap.org/geo/1.0/direct"
